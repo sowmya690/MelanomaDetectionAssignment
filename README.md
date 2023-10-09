@@ -15,6 +15,8 @@ A solution that can evaluate images and alert dermatologists about the presence 
 to reduce a lot of manual effort needed in diagnosis.
 
 ## Dataset
+Google Drive link to the data: https://drive.google.com/drive/folders/1KAIRrQdnN-EafIl7oOptvdVoUB2Cw2RH
+
 The dataset consists of 2357 images of malignant and benign oncological diseases, 
 which were formed from the International Skin Imaging Collaboration (ISIC). 
 All images were sorted according to the classification taken with ISIC, 
